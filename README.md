@@ -1,0 +1,2 @@
+# GitSecret
+ForFindGitHubSensitiveInformationLeak
